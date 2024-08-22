@@ -56,6 +56,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Contact**:
 For any questions or feedback, please open an issue in the repository or contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+**Output**:
+![Screenshot 2024-08-22 112220](https://github.com/user-attachments/assets/5880ca6f-4d94-451e-8959-1afdb0a5ea6a)
+
 
 **Repository**:
 - [GitHub Repository](https://github.com/yourusername/sample-calculator)
